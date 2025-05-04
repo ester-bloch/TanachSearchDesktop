@@ -1,0 +1,54 @@
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.Form1.resources
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\obj\Debug\net8.0-windows\PL_presentation.ToraSearch.resources
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.csproj.GenerateResource.cache
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.AssemblyInfoInputs.cache
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.AssemblyInfo.cs
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.csproj.CoreCompileInputs.cache
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\bin\Debug\net8.0-windows\TanachProject.exe
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\bin\Debug\net8.0-windows\TanachProject.deps.json
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\bin\Debug\net8.0-windows\TanachProject.runtimeconfig.json
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\bin\Debug\net8.0-windows\TanachProject.dll
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\bin\Debug\net8.0-windows\TanachProject.pdb
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\bin\Debug\net8.0-windows\bll_services.dll
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\bin\Debug\net8.0-windows\DAL- data_access.dll
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\bin\Debug\net8.0-windows\DTO_Global.dll
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\bin\Debug\net8.0-windows\bll_services.pdb
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\bin\Debug\net8.0-windows\DAL- data_access.pdb
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\bin\Debug\net8.0-windows\DTO_Global.pdb
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.csproj.AssemblyReference.cache
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachPr.C3372FDF.Up2Date
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.dll
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\obj\Debug\net8.0-windows\refint\TanachProject.dll
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.pdb
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.genruntimeconfig.cache
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\obj\Debug\net8.0-windows\ref\TanachProject.dll
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\bin\Debug\net8.0-windows\JsonConverter.Abstractions.dll
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\bin\Debug\net8.0-windows\JsonConverter.Newtonsoft.Json.dll
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\TanachProject\bin\Debug\net8.0-windows\Stef.Validation.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.csproj.AssemblyReference.cache
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\obj\Debug\net8.0-windows\PL_presentation.ToraSearch.resources
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.csproj.GenerateResource.cache
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.AssemblyInfoInputs.cache
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.AssemblyInfo.cs
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.csproj.CoreCompileInputs.cache
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\obj\Debug\net8.0-windows\refint\TanachProject.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.pdb
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\bin\Debug\net8.0-windows\TanachProject.exe
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\bin\Debug\net8.0-windows\TanachProject.deps.json
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\bin\Debug\net8.0-windows\TanachProject.runtimeconfig.json
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\bin\Debug\net8.0-windows\TanachProject.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\bin\Debug\net8.0-windows\TanachProject.pdb
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\bin\Debug\net8.0-windows\bll_services_3.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\bin\Debug\net8.0-windows\DAL-data_access.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\bin\Debug\net8.0-windows\DTO_Global.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\bin\Debug\net8.0-windows\bll_services_3.pdb
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\bin\Debug\net8.0-windows\DAL-data_access.pdb
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\bin\Debug\net8.0-windows\DTO_Global.pdb
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachPr.C3372FDF.Up2Date
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\obj\Debug\net8.0-windows\TanachProject.genruntimeconfig.cache
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\TanachProject\obj\Debug\net8.0-windows\ref\TanachProject.dll

@@ -1,0 +1,22 @@
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\DTO_Global\bin\Debug\net8.0\DTO_Global.deps.json
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\DTO_Global\bin\Debug\net8.0\DTO_Global.dll
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\DTO_Global\bin\Debug\net8.0\DTO_Global.pdb
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\DTO_Global\obj\Debug\net8.0\DTO_Global.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\DTO_Global\obj\Debug\net8.0\DTO_Global.AssemblyInfoInputs.cache
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\DTO_Global\obj\Debug\net8.0\DTO_Global.AssemblyInfo.cs
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\DTO_Global\obj\Debug\net8.0\DTO_Global.csproj.CoreCompileInputs.cache
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\DTO_Global\obj\Debug\net8.0\DTO_Global.dll
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\DTO_Global\obj\Debug\net8.0\refint\DTO_Global.dll
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\DTO_Global\obj\Debug\net8.0\DTO_Global.pdb
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\DTO_Global\obj\Debug\net8.0\ref\DTO_Global.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\DTO_Global\bin\Debug\net8.0\DTO_Global.deps.json
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\DTO_Global\bin\Debug\net8.0\DTO_Global.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\DTO_Global\bin\Debug\net8.0\DTO_Global.pdb
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\DTO_Global\obj\Debug\net8.0\DTO_Global.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\DTO_Global\obj\Debug\net8.0\DTO_Global.AssemblyInfoInputs.cache
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\DTO_Global\obj\Debug\net8.0\DTO_Global.AssemblyInfo.cs
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\DTO_Global\obj\Debug\net8.0\DTO_Global.csproj.CoreCompileInputs.cache
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\DTO_Global\obj\Debug\net8.0\DTO_Global.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\DTO_Global\obj\Debug\net8.0\refint\DTO_Global.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\DTO_Global\obj\Debug\net8.0\DTO_Global.pdb
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\DTO_Global\obj\Debug\net8.0\ref\DTO_Global.dll

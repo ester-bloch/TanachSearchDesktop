@@ -1,0 +1,112 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "WebApplication1",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/ToraSearch/{word}": {
+      "get": {
+        "tags": [
+          "ToraSearch"
+        ],
+        "parameters": [
+          {
+            "name": "word",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Result"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Result"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Result"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Result": {
+        "type": "object",
+        "properties": {
+          "sefer": {
+            "type": "string",
+            "nullable": true
+          },
+          "perek": {
+            "type": "string",
+            "nullable": true
+          },
+          "pasuk": {
+            "type": "string",
+            "nullable": true
+          },
+          "value": {
+            "type": "string",
+            "nullable": true
+          },
+          "lengthOfWord": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "foundWord": {
+            "type": "boolean"
+          },
+          "indexOfWord": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "foundInitial": {
+            "type": "boolean"
+          },
+          "indexOfFirstInitial": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "foundInMiddle": {
+            "type": "boolean"
+          },
+          "indexOfFirstMiddle": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "letterLocation": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

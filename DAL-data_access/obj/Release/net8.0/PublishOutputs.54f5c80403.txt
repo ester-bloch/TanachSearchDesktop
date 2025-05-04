@@ -1,0 +1,6 @@
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\publish\DAL-data_access.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\publish\DAL-data_access.deps.json
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\publish\DAL-data_access.pdb
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\publish\Newtonsoft.Json.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\publish\DTO_Global.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\publish\DTO_Global.pdb

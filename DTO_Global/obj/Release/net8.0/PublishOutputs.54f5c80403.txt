@@ -1,0 +1,3 @@
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\publish\DTO_Global.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\publish\DTO_Global.deps.json
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\publish\DTO_Global.pdb

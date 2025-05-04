@@ -1,0 +1,22 @@
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\bll_services\obj\Debug\net8.0\bll_services.csproj.AssemblyReference.cache
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\bll_services\obj\Debug\net8.0\bll_services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\bll_services\obj\Debug\net8.0\bll_services.AssemblyInfoInputs.cache
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\bll_services\obj\Debug\net8.0\bll_services.AssemblyInfo.cs
+C:\Users\This User\Documents\מסלול\שיעורי ביתc#\TanachProject\bll_services\obj\Debug\net8.0\bll_services.csproj.CoreCompileInputs.cache
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\bll_services\bin\Debug\net8.0\bll_services.deps.json
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\bll_services\bin\Debug\net8.0\bll_services.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\bll_services\bin\Debug\net8.0\bll_services.pdb
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\bll_services\bin\Debug\net8.0\DAL-data_access.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\bll_services\bin\Debug\net8.0\DTO_Global.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\bll_services\bin\Debug\net8.0\DAL-data_access.pdb
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\bll_services\bin\Debug\net8.0\DTO_Global.pdb
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\bll_services\obj\Debug\net8.0\bll_services.csproj.AssemblyReference.cache
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\bll_services\obj\Debug\net8.0\bll_services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\bll_services\obj\Debug\net8.0\bll_services.AssemblyInfoInputs.cache
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\bll_services\obj\Debug\net8.0\bll_services.AssemblyInfo.cs
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\bll_services\obj\Debug\net8.0\bll_services.csproj.CoreCompileInputs.cache
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\bll_services\obj\Debug\net8.0\bll_serv.EB6D31EE.Up2Date
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\bll_services\obj\Debug\net8.0\bll_services.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\bll_services\obj\Debug\net8.0\refint\bll_services.dll
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\bll_services\obj\Debug\net8.0\bll_services.pdb
+C:\Users\This User\Documents\גיבוי פרויקטים c#\TanachProject\bll_services\obj\Debug\net8.0\ref\bll_services.dll

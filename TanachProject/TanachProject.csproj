@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\bll_services_3\bll_services_3.csproj" />
+    <ProjectReference Include="..\DAL-data_access\DAL-data_access.csproj" />
+    <ProjectReference Include="..\DTO_Global\DTO_Global.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="JsonConverter.Abstractions">
+      <HintPath>..\..\tanach2\New Tanach Project (Solution)\PL_presentation\bin\Debug\net8.0-windows\JsonConverter.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="JsonConverter.Newtonsoft.Json">
+      <HintPath>..\..\tanach2\New Tanach Project (Solution)\PL_presentation\bin\Debug\net8.0-windows\JsonConverter.Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\tanach2\New Tanach Project (Solution)\PL_presentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
